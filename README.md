@@ -33,7 +33,11 @@ The LSTM network is trained on the labeled data to classify sentiments into the 
 5. Dropout: A regularization technique that randomly drops neurons during training to prevent overfitting.
 6. SpatialDropout1D: Similar to Dropout but drops entire 1D feature maps instead of individual neurons, used in text data to promote generalization.
 7. Embedding: Converts words into dense vector representations, allowing the model to learn relationships between words.
-8. The sentiment analysis model gives the predicted output as positive or negative based on the sentiment in the input text.
+
+ 
+
+# Outcome
+The sentiment analysis model gives the predicted output as positive or negative based on the sentiment in the input text.
 
 
 
